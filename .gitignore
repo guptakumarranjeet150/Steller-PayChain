@@ -1,7 +1,4 @@
 node_modules/
-.env
-.env.local
-.env.production
 dist/
 build/
 .next/
@@ -14,3 +11,4 @@ prisma/migrations/dev/
 # Rust build artifacts
 contracts/target/
 .stellar/
+config.bat
